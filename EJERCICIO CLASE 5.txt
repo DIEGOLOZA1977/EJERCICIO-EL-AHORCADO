@@ -1,0 +1,31 @@
+a=7
+b=7
+c=5
+"""if(a==b):
+    if(b==c):
+        print("los tres numeros iguales")
+    else:
+        print("a=b pero c es diferente")
+else:
+    print("a y b son diferentes")"""
+
+    
+"""nota = int(input("Ingresa la nota:"))
+if nota >= 18:
+    print("Excelente")
+elif nota >= 14:
+    print("Aprueba")
+elif nota >= 10:
+    print("Necesita estudiar")
+else:
+    print("Reprueba")"""
+
+nota = float(input("Ingresa la nota: "))
+if nota >= 18:
+    print("Excelente")
+elif nota >= 14:
+    print("Aprueba")
+elif nota >= 10:
+    print("Necesita estudiar")
+else:
+    print("Reprueba")
